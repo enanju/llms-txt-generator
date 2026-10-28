@@ -1,6 +1,6 @@
 A free online llms.txt generator that crawls your website and builds a clean markdown index for AI models like ChatGPT, Claude, Gemini and Perplexity.
 
-👉 Use the Free llms.txt Generator - tinyseotool.com
+👉 Use the Free llms.txt Generator - https://tinyseotool.com/llms-txt-generator
 
 What is llms.txt?
 
@@ -16,11 +16,11 @@ Free iframe embed for your own website, with no API key required
 
 How to create an llms.txt file
 
-Open the llms.txt Generator
-Enter your website URL or sitemap URL, or add your pages manually
-Click Generate llms.txt
-Download the file
-Upload it to your site's root so it loads at https://yourdomain.com/llms.txt
+1.Open the llms.txt Generator
+2.Enter your website URL or sitemap URL, or add your pages manually
+3.Click Generate llms.txt
+4.Download the file
+5. Upload it to your site's root so it loads at  https://tinyseotool.com/llms-txt-generator
 
 Example llms.txt
 
