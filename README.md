@@ -19,3 +19,5 @@ The core functionality and the actual generator are hosted on our website. Pleas
 
 🤝 Contributing
 If you have suggestions for how to improve the generated llms.txt format, feel free to open an Issue in this repository!
+
+You can embed this generator directly on your own website for free using our iframe. (No API keys or backend required).
