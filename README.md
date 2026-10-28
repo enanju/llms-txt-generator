@@ -1,23 +1,66 @@
-llms.txt Generator
+A free online llms.txt generator that crawls your website and builds a clean markdown index for AI models like ChatGPT, Claude, Gemini and Perplexity.
 
-A free, online tool to automatically generate an llms.txt file for your website, making it easier for AI models (like ChatGPT, Claude, and Perplexity) to understand your site structure.
+👉 Use the Free llms.txt Generator - tinyseotool.com
 
-🔗 Use the Tool
-You can use the hosted version of the generator here:
-👉 tinyseotool.com/llms-txt-generator 
+What is llms.txt?
 
-⚙️ What it does
-The llms.txt Generator crawls your website and builds a clean, markdown-based index. Key features include:
-Auto-Crawling: Automatically scans your provided URL to find relevant pages.
-Directory Grouping: Groups pages by directory (e.g., /docs, /blog) for a logical structure.
-Respects noindex: Automatically skips pages that are marked noindex in robots.txt or meta tags to keep your index clean.
+llms.txt is a plain-text markdown file placed in your website's root folder (yourdomain.com/llms.txt). It gives AI crawlers and language models a clean, structured summary of your site and its most important pages, so they can understand your content faster than by scraping raw HTML.
 
-📌 Important Note
-This GitHub repository serves only as a gateway/landing page for the project.
+Features
 
-The core functionality and the actual generator are hosted on our website. Please use the link provided above to generate your llms.txt file.
+Auto-crawl: enter a website URL or sitemap and the tool finds your key pages
+Directory grouping: groups pages by section (e.g. /docs, /blog)
+Respects noindex: skips pages marked noindex to keep the file clean
+Build by hand: create your file manually, fully client-side
+Free iframe embed for your own website, with no API key required
 
-🤝 Contributing
-If you have suggestions for how to improve the generated llms.txt format, feel free to open an Issue in this repository!
+How to create an llms.txt file
 
-You can embed this generator directly on your own website for free using our iframe. (No API keys or backend required).
+Open the llms.txt Generator
+Enter your website URL or sitemap URL, or add your pages manually
+Click Generate llms.txt
+Download the file
+Upload it to your site's root so it loads at https://yourdomain.com/llms.txt
+
+Example llms.txt
+
+Example Site
+
+A short summary of what your website is about.
+
+Docs
+
+Getting Started: How to get started
+API Reference: Full API documentation
+
+Blog
+
+Latest Posts: News and guides
+
+Optional
+
+About Us: Who we are
+
+FAQ
+
+What is the difference between llms.txt and robots.txt?
+
+robots.txt tells crawlers which pages they may or may not access. llms.txt does the opposite job: it points AI models to your most useful pages and summarizes them. They work together and do not replace each other.
+
+Where do I put the llms.txt file?
+
+In the root folder of your website, the same place as robots.txt, so it opens at yourdomain.com/llms.txt.
+
+Does Google use llms.txt for ranking?
+
+No. It is aimed at AI assistants and language models, not Google's classic search ranking. Treat it as a separate, newer signal alongside normal SEO.
+
+Contributing
+
+Have a suggestion to improve the generated llms.txt format? Open an Issue.
+
+License
+
+MIT
+
+Built by tinyseotool.com, free online SEO tools.
