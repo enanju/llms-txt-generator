@@ -4,7 +4,7 @@ A free, online tool to automatically generate an llms.txt file for your website,
 
 🔗 Use the Tool
 You can use the hosted version of the generator here:
-👉 tinyseotool.com/llms-txt-generator
+👉 tinyseotool.com/llms-txt-generator 
 
 ⚙️ What it does
 The llms.txt Generator crawls your website and builds a clean, markdown-based index. Key features include:
