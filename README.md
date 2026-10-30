@@ -20,7 +20,7 @@ How to create an llms.txt file
 2.Enter your website URL or sitemap URL, or add your pages manually
 3.Click Generate llms.txt
 4.Download the file
-5. Upload it to your site's root so it loads at  https://tinyseotool.com/llms-txt-generator
+5. Upload it to your site's root so it loads at  https://yourdomain.com/llms.txt
 
 Example llms.txt
 
